@@ -2,6 +2,10 @@
 
 require_relative '../lib/garden.rb'
 require_relative '../lib/plant.rb'
+require_realative '../config/environment'
+
+
+
 
 lawn = Garden.new(name: 'Front Lawn')
 
